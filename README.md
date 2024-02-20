@@ -24,7 +24,7 @@
 
 |                          이승호                          |                        김민욱                        |                            강성권                             |                          김태훈                          |                           서지원                           |                        박형규                        |
 | :------------------------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------: |
-|                      Front (Leader)                      |                        Front                         |                             Front                             |                       Back, Server                       |                            Back                            |                         Back                         |
+|                      Front (Leader)                      |                        Front                         |                             Front                             |                       Back, Server배포, UCC                       |                            Back                            |                         Back                         |
 | <img src="frontend/public/common/호크아이.png" width=30> | <img src="frontend/public/common/헐크.png" width=30> | <img src="frontend/public/common/캡틴 아메리카.png" width=30> | <img src="frontend/public/common/아이언맨.png" width=30> | <img src="frontend/public/common/블랙위도우.png" width=30> | <img src="frontend/public/common/팔콘.png" width=30> |
 
 <br>
